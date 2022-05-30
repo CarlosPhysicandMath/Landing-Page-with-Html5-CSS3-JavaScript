@@ -29,87 +29,46 @@ Here are the technologies used in this project.
 
 ### 1 - When you access the project, you will see this initial page.
 
-![Homepage image](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
+![Homepage image](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(2).png)
 
-### 2 - You can Login in the system if you have an account registered.
+### 2 - Continuation of the page.
 
-![Login](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/16.png)
+![Homepage image](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(6).png)
 
-### 3 - Or simply create your account.
+### 3 -Part of social networks.
 
-![Sign up](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png)
+![Homepage image]([https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(7).png))
 
-### 4 - This is the Dashboard!
+### 4 - The footer!
 
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/14.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/13.png)
+![Homepage image](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(4).png)
 
-### 5 - You can see more of an album clicking above it.
 
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/12.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/11.png)
+### 5 - You can see the responsive part of the website .
 
-### 6 - You can also search a music, artist or an album accord of it's category!!
-
-![Search tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/10.png)
-
-### 7 - Clicking on the category, will return:
-
-  #### 7.1 - It's albums registered.
-
-![Search Albums tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png)
-
-  #### 7.2 - It's artists.
-
-![Search Artists tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/8.png)
-
-  #### 7.3 - It's musics.
-
-![Search Musics tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/7.png)
-
-### 8 - Clicking on the artist, you can see it's perfil like the image above.
-
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/6.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/5.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/4.png)
-
-### 9 - You can access the favorite's tab too like:
-  #### 9.1 - Favorite Albums.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/3.png)
-
-  #### 9.2 - Favorite Artists.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/2.png)
-
-  #### 9.3 - Favorite Musics.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/1.png)
+![Part Responsive][(https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/12.png](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(8).png))
+![Part Responsive](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(9).png)
 
 
 ## Features
 
 The main features of the application are:
- - Listen Songs.
- - Favorite Albums.
- - Favorite Artists.
- - Favorite Musics.
- - See Album's perfil.
- - See Artist's perfil.
- - Search albums, musics and artists.
+ - responsive layout 
+
+
 
 
 ## Links
-  - Repository: https://github.com/Lucasdfg07/Spotify_clone
+  - Repository: https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript
     - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      henrique5802@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
 
-  ## Versioning
-
-  1.0.0.0
 
 
-  ## Authors
+  ## Author:
 
-  * **Lucas Siqueira Fernandes** 
+  * **Carlos Henrique de Santana** 
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
