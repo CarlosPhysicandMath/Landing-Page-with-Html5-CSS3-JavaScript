@@ -37,16 +37,18 @@ Here are the technologies used in this project.
 
 ### 3 -Part of social networks.
 
-![Homepage image]([https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(7).png))
+![Homepage image](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(7).png))
 
 ### 4 - The footer!
 
 ![Homepage image](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(4).png)
 
 
-### 5 - You can see the responsive part of the website .
+### 5 - You can see the responsive part of the website I.
 
-![Part Responsive][(https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/12.png](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(8).png))
+![Part Responsive](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(8).png))
+
+### 6 - You can see the responsive part of the website I.
 ![Part Responsive](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(9).png)
 
 
