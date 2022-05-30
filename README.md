@@ -48,7 +48,7 @@ Here are the technologies used in this project.
 
 ![Part Responsive](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(8).png))
 
-### 6 - You can see the responsive part of the website I.
+### 6 - You can see the responsive part of the website II
 ![Part Responsive](https://github.com/CarlosPhysicandMath/Projetos-de-Html---Css3---JavaScript/blob/main/Prints/Captura%20de%20Tela%20(9).png)
 
 
